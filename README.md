@@ -1,6 +1,6 @@
 # NoSleep
 
-This is a script for keeping the Windows systemfrom sleeping.
+This is a script for keeping the Windows system from sleeping.
 
 <br> The script is a modified version of this one: 
 <br> https://latebits.com/2021/08/17/observium-reporting-with-ansible/
